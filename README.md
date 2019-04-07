@@ -1,1 +1,1 @@
-# python_qa
+# Repository for python course
